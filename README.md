@@ -14,13 +14,6 @@ A brief description of what this project does and who it's for
 
 ## Installation
 
-Install my-project with npm
-
-```bash
-  git clone https://github.com/anuragsgupta/Tomato-Plant-Disease-Detection.git
-  cd Tomato-Plant-Disease-Detection
-  python app.py
-```
     
 ## Run Locally
 
